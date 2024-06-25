@@ -1,12 +1,3 @@
----
-name: PR 생성 템플릿
-about: 해당 PR 생성 템플릿을 사용하여 PR을 생성해주세요.
-title: 이름 / N주차 PR
-labels: ''
-assignees: ''
-
----
-
 ## 🍻Summary
 > 이번 주 공부 내용을 간략하게 설명해주세요.
 -
