@@ -7,7 +7,6 @@ public class Main {
         int N = Integer.parseInt(br.readLine());
         int Dasom = Integer.parseInt(br.readLine());
         int cnt = 0;
-        // pq.add(Dasom);
         if(N>1){
             for(int i=1; i<N; i++){
                 pq.add(Integer.parseInt(br.readLine()));
